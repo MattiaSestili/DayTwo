@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayTwo\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\student\Documents\GitHub\C#\DayTwo\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\DayTwo\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\student\Documents\GitHub\C#\DayTwo\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\student\Documents\GitHub\C#\DayTwo\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\student\Documents\GitHub\C#\DayTwo\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

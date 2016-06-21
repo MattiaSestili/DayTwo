@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayTwo\ClassesOBJ\ClassesOBJ\bin\Debug\ClassesOBJ.exe.config
+C:\Users\student\Documents\GitHub\C#\DayTwo\ClassesOBJ\ClassesOBJ\bin\Debug\ClassesOBJ.exe
+C:\Users\student\Documents\GitHub\C#\DayTwo\ClassesOBJ\ClassesOBJ\bin\Debug\ClassesOBJ.pdb
+C:\Users\student\Documents\GitHub\C#\DayTwo\ClassesOBJ\ClassesOBJ\obj\Debug\ClassesOBJ.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\DayTwo\ClassesOBJ\ClassesOBJ\obj\Debug\ClassesOBJ.exe
+C:\Users\student\Documents\GitHub\C#\DayTwo\ClassesOBJ\ClassesOBJ\obj\Debug\ClassesOBJ.pdb
