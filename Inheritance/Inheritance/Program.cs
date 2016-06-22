@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace Inheritance
 {
-   
-
         class Vehicle
         {
             public string name;

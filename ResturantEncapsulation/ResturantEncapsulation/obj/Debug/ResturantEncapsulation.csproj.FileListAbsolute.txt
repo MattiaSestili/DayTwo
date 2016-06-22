@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\DayTwo\ResturantEncapsulation\ResturantEncapsulation\bin\Debug\ResturantEncapsulation.exe.config
+C:\Users\student\Documents\GitHub\C#\DayTwo\ResturantEncapsulation\ResturantEncapsulation\bin\Debug\ResturantEncapsulation.exe
+C:\Users\student\Documents\GitHub\C#\DayTwo\ResturantEncapsulation\ResturantEncapsulation\bin\Debug\ResturantEncapsulation.pdb
+C:\Users\student\Documents\GitHub\C#\DayTwo\ResturantEncapsulation\ResturantEncapsulation\obj\Debug\ResturantEncapsulation.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\DayTwo\ResturantEncapsulation\ResturantEncapsulation\obj\Debug\ResturantEncapsulation.exe
+C:\Users\student\Documents\GitHub\C#\DayTwo\ResturantEncapsulation\ResturantEncapsulation\obj\Debug\ResturantEncapsulation.pdb
