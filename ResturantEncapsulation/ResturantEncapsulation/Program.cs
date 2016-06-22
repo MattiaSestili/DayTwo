@@ -21,16 +21,31 @@ namespace ResturantEncapsulation
                 this.cost = cost;
             }
 
-            public static decimal cookMeal(Meal meal, decimal balance)
+            public static void cookMeal(Meal meal)
             {
                 Console.WriteLine("The meal {0} has been cooked.", meal.name);
-                balance = balance + meal.price;
-                balance = balance - meal.cost;
-                return balance;
             }
         }
 
-        public class Order
+        public class ResturantManagement
+        {
+                private static decimal balance = 0;
+
+                public static void Management(Meal meal)
+                {
+                    balance = balance + meal.price;
+                    balance = balance - meal.cost;
+                }
+
+                public static decimal getBalance()
+                {
+                    return balance;
+                }
+
+        }
+
+
+    public class Order
         {
             public void takeOrder(Meal meal)
             {
@@ -38,11 +53,9 @@ namespace ResturantEncapsulation
             }
         }
 
-        
-
         static void Main(string[] args)
         {
-            decimal balance = 0;
+            
             //add some meals data
             Meal steak = new Meal();
             steak.addMeal("steak", 20.00M, 5.00M);
@@ -52,12 +65,15 @@ namespace ResturantEncapsulation
             pumpkinRisotto.addMeal("pumpkinRisotto", 10.00M, 1.00M);
             Order order1 = new Order();
             order1.takeOrder(steak);
-            balance = Meal.cookMeal(steak, balance);
+            Meal.cookMeal(steak);
 
             Order order2 = new Order();
             order2.takeOrder(pumpkinRisotto);
-            balance = Meal.cookMeal(pumpkinRisotto, balance);
-            Console.WriteLine("Tonight in the restaurant, we made £{0:N2}.", balance);
+            Meal.cookMeal(pumpkinRisotto);
+            ResturantManagement.Management(pumpkinRisotto);
+            ResturantManagement.Management(steak);
+
+            Console.WriteLine("Tonight in the restaurant, we made £{0:N2}.", ResturantManagement.getBalance());
         }
     }
 }
